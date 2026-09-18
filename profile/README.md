@@ -16,10 +16,11 @@ and answers when you check in from your phone.
 [Status](https://status.foxl.ai) &nbsp;·&nbsp;
 [Discord](https://discord.gg/6J53VyV2Fy)
 
-<a href="https://github.com/foxl-ai/foxl/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/foxl-ai/foxl?style=flat-square&label=release&color=0969E3&labelColor=1F2328" /></a>
-<a href="https://github.com/foxl-ai/foxl/releases"><img alt="Total downloads" src="https://img.shields.io/github/downloads/foxl-ai/foxl/total?style=flat-square&label=downloads&color=0969E3&labelColor=1F2328" /></a>
-<a href="https://foxl.ai"><img alt="Runs on macOS, Windows, Linux, iOS and Android" src="https://img.shields.io/badge/macOS%20%7C%20Windows%20%7C%20Linux%20%7C%20iOS%20%7C%20Android-0969E3?style=flat-square&label=runs%20on&labelColor=1F2328" /></a>
-<a href="https://discord.gg/6J53VyV2Fy"><img alt="Discord" src="https://img.shields.io/badge/join-5865F2?style=flat-square&label=discord&labelColor=1F2328" /></a>
+<a href="https://github.com/foxl-ai/foxl/releases/latest"><img alt="Latest Foxl release" src="https://img.shields.io/github/v/release/foxl-ai/foxl?style=flat&label=latest%20release&color=0969E3&logo=github&logoColor=white" /></a>
+<a href="https://github.com/foxl-ai/foxl/releases"><img alt="Total downloads" src="https://img.shields.io/github/downloads/foxl-ai/foxl/total?style=flat&label=downloads&color=0969E3&logo=github&logoColor=white" /></a>
+<a href="https://foxl.ai"><img alt="Runs on macOS, Windows, Linux, iOS and Android" src="https://img.shields.io/badge/macOS%20%7C%20Windows%20%7C%20Linux%20%7C%20iOS%20%7C%20Android-0969E3?style=flat&label=runs%20on" /></a>
+<a href="https://docs.foxl.ai"><img alt="Documentation" src="https://img.shields.io/badge/docs.foxl.ai-0969E3?style=flat&label=docs&logo=readthedocs&logoColor=white" /></a>
+<a href="https://discord.gg/6J53VyV2Fy"><img alt="Join the Foxl Discord" src="https://img.shields.io/badge/join%20us-5865F2?style=flat&label=discord&logo=discord&logoColor=white" /></a>
 
 </div>
 
